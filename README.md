@@ -1,8 +1,4 @@
-<div lang="en">
-  ## Hi there 👋
-<div lang="ru">
-  ## Привет!
-
+ ## Hi there 👋
 
 
 <!--
