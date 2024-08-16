@@ -1,8 +1,9 @@
-[English](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/Flam7060/Flam7060)
-/
-[Русский](https://translate.google.com/translate?hl=ru&sl=auto&tl=ru&u=https://github.com/Flam7060/Flam7060)
+<div lang="en">
+  ## Hi there 👋
+<div lang="ru">
+  ## Привет!
 
-## Hi there 👋
+
 
 <!--
 **Flam7060/Flam7060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
