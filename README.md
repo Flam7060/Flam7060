@@ -1,3 +1,6 @@
+[English](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/username/username)
+[Русский](https://translate.google.com/translate?hl=ru&sl=auto&tl=ru&u=https://github.com/username/username)
+
 ## Hi there 👋
 
 <!--
