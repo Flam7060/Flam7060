@@ -1,5 +1,6 @@
-[English](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/username/username)
-[Русский](https://translate.google.com/translate?hl=ru&sl=auto&tl=ru&u=https://github.com/username/username)
+[English](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/Flam7060/Flam7060)
+/
+[Русский](https://translate.google.com/translate?hl=ru&sl=auto&tl=ru&u=https://github.com/Flam7060/Flam7060)
 
 ## Hi there 👋
 
