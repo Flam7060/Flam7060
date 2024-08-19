@@ -50,6 +50,11 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://seekicon.com/free-icon-download/docker_5.svg" alt="docker" width="40" height="40"/></a> 
   <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" alt="Discord" width="40" height="40"/></a> 
 </details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <h2>Немного моей статистики</h2>
  <h3>Статистика GitHub</h3>
   <p>
