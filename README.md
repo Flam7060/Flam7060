@@ -51,10 +51,12 @@
   <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" alt="Discord" width="40" height="40"/></a> 
 </details>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flam7060/Flam7060/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flam7060/Flam7060/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Flam7060/Flam7060/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <h2>Немного моей статистики</h2>
  <h3>Статистика GitHub</h3>
   <p>
